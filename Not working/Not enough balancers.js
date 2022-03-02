@@ -1,3 +1,9 @@
+
+// reference material 
+// https://github.com/SkimnerPhi/wires-plus/blob/master/js/buildings/advanced_processor.js
+// https://github.com/tobspr/shapez.io/blob/679e7f168cd48463bdcbe43b72bc5cf10eb63897/src/js/game/buildings/painter.js#L114-L293
+
+
 // @ts-nocheck
 const METADATA = {
     website: "https://shapez.mod.io/4-way-balancer",
